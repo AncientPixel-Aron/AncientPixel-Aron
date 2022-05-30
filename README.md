@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AncientPixel-Aron
+- 👋 Hi, I’m AncientPixel (Aron)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning myself
 - 💞️ I’m looking to collaborate on Craftventure
