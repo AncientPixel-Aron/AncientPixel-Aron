@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Aron
+### Hey there 👋
 
-<!---
-AncientPixel-Aron/AncientPixel-Aron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### I'm Aron - Web Developer by day ☀️ and Coder & Gamer by night 🌙
+
+- 🧩 Backend: Symfony (API Platform, EasyAdmin)
+- 🎨 Templating: Twig
+- ⚡ Frontend: Vue.js
+- 🔌 APIs: RESTful, JSON-based architectures
+- 🧪 Also worked with: Flutter, Lua
